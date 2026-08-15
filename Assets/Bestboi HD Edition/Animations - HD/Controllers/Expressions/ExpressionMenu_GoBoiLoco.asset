@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: ExpressionMenu_GoBoiLoco
+  m_EditorClassIdentifier: 
+  controls:
+  - name: BodyCtrls
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2d4d6fdbd406dae4cb4c9e7850c99b24, type: 2}
+    subParameters: []
+    labels: []
+  - name: Actions
+    icon: {fileID: 2800000, guid: 042589304d621b546b78d53dbe8d5cda, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0a7f9836b56b0c84fa274b69fe489b23, type: 2}
+    subParameters: []
+    labels: []
+  - name: Face
+    icon: {fileID: 2800000, guid: af1ba8919b0ccb94a99caf43ac36f97d, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3daca366bb6ed44479d40083aea8eb88, type: 2}
+    subParameters: []
+    labels: []
+  - name: Go Boi Loco
+    icon: {fileID: 2800000, guid: 82ab53a641de2f1448023168217721eb, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: d5ae14c463b6b494494c2f5064089632, type: 2}
+    subParameters: []
+    labels: []

@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: StateParameters_FaceTracking
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: VRCEmote
+    valueType: 0
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: Female
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawX1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawX2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawX4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawX8
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawOpenPuff1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawOpenPuff2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawOpenPuff4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawOpenPuff8
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: JawOpenPuffNegative
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueX1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueX2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueX4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueXNegative
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueY1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueY2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueY4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: TongueYNegative
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: RightEyeX
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: RightEyeY
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: LeftEyeX
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: LeftEyeY
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: EyesDilation1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: EyesDilation2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: LeftEyeLid1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: LeftEyeLid2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: LeftEyeLid4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: LeftEyeLid8
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: RightEyeLid1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: RightEyeLid2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: RightEyeLid4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: RightEyeLid8
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: EyesWiden1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: EyesWiden2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MouthUpperUpLeft1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MouthUpperUpLeft2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MouthUpperUpLeft4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MouthLowerDownLeft1
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MouthLowerDownLeft2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
+  - name: MouthLowerDownLeft4
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
