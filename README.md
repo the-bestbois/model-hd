@@ -75,7 +75,9 @@ git clone https://github.com/The-Best-Boi-Project/model-hd.git
 
 - [x] Reorganize file structure to match the asset manager
 - [x] Fix disconnected bone issues
-- [ ] Look for more issues to add to this list
+- [ ] Remove GoGoLoco
+- [ ] Remove broken scripts
+- [ ] Simplify setup scene
 
 See the [open issues](https://github.com/The-Best-Boi-Project/model-hd/issues) for a full list of proposed features (and known issues).
 
