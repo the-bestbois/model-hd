@@ -55,6 +55,7 @@ To open this project locally, you will need to install the following first:
 Additionally, you will need to add the following repositories to VCC/ALCOM:
 - [VRCFury](https://vrcfury.com/)
 - [Poiyomi Toon Shader](https://www.poiyomi.com/)
+- [Gesture Manager](https://github.com/BlackStartx/VRC-Gesture-Manager) (optional)
 
 
 ### Installation

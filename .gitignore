@@ -115,9 +115,9 @@ InitTestScene*.unity*
 
 # VRChat packages
 /[Pp]ackages/com.vrchat.*
-/[Pp]ackages/com.vrchat.*
 
 # Dependencies
 /[Pp]ackages/com.poiyomi.*
 /[Pp]ackages/com.vrcfury.*
 /[Pp]ackages/com.bestboiproject.*
+/[Pp]ackages/vrchat.blackstartx.gesture-manager
