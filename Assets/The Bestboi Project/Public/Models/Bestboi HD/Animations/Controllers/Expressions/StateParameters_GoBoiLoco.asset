@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
   m_Name: StateParameters_GoBoiLoco
   m_EditorClassIdentifier: 
+  isEmpty: 0
   parameters:
   - name: FaceH
     valueType: 1
@@ -129,6 +130,11 @@ MonoBehaviour:
     defaultValue: 0
     networkSynced: 0
   - name: Go/Height
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+    networkSynced: 0
+  - name: VRCEmoteSpeed
     valueType: 1
     saved: 0
     defaultValue: 0

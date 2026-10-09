@@ -5732,9 +5732,41 @@ PrefabInstance:
       propertyPath: animationHashSet.Array.data[698].name
       value: Idle
       objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: baseAnimationLayers.Array.data[0].isDefault
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: baseAnimationLayers.Array.data[3].isDefault
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: specialAnimationLayers.Array.data[0].isDefault
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: specialAnimationLayers.Array.data[1].isDefault
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: baseAnimationLayers.Array.data[0].animatorController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: baseAnimationLayers.Array.data[3].animatorController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: specialAnimationLayers.Array.data[0].animatorController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: specialAnimationLayers.Array.data[1].animatorController
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3921698197638920834, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
       propertyPath: m_Name
-      value: BestBoi HD PC (GoBoiLoco)
+      value: BestBoi HD PC
       objectReference: {fileID: 0}
     - target: {fileID: 3921698197638920835, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
       propertyPath: blueprintId
@@ -5793,7 +5825,8 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 2763819700134033021, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
@@ -5847,7 +5880,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2915824084328832143, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
       propertyPath: m_Name
-      value: Bestboi HD Quest (GoBoiLoco)
+      value: Bestboi HD Quest
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
