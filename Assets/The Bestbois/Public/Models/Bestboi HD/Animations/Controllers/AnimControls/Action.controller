@@ -5716,9 +5716,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.1
-  m_TransitionOffset: 0
-  m_ExitTime: 1
+  m_TransitionDuration: 0.08189392
+  m_TransitionOffset: 0.16195099
+  m_ExitTime: 0.9933651
   m_HasExitTime: 0
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -7230,7 +7230,7 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.1
+  m_TransitionDuration: 0.09901619
   m_TransitionOffset: 0
   m_ExitTime: 1
   m_HasExitTime: 0
@@ -8464,7 +8464,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Land (automatic)
+  m_Name: Land (auto)
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -9046,19 +9046,19 @@ AnimatorStateMachine:
     m_Position: {x: 324, y: -24, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102545921296986560}
-    m_Position: {x: 540, y: -408, z: 0}
+    m_Position: {x: 590, y: -410, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102702714434752254}
-    m_Position: {x: 756, y: -312, z: 0}
+    m_Position: {x: 760, y: -310, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102922799861457798}
-    m_Position: {x: 756, y: -360, z: 0}
+    m_Position: {x: 760, y: -360, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102596238963885066}
     m_Position: {x: 324, y: -312, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102648725996880350}
-    m_Position: {x: 756, y: -264, z: 0}
+    m_Position: {x: 590, y: -260, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102702899315900824}
     m_Position: {x: 756, y: -24, z: 0}
