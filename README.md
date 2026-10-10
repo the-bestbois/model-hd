@@ -75,14 +75,17 @@ git clone https://github.com/The-Best-Boi-Project/model-hd.git
 
 - [x] Reorganize file structure to match the asset manager
 - [x] Fix disconnected bone issues
-- [ ] Remove GoGoLoco
-- [ ] Remove broken scripts
-- [ ] Simplify setup scene
+- [x] Fix tongue animations
+- [x] Remove GoGoLoco
+- [x] Remove broken scripts
+- [x] Simplify setup scene
+- [x] Fix  and improve action layer
+- [ ] Make gestures more modular
+- [ ] Make face tracking components modular
 
 See the [open issues](https://github.com/The-Best-Boi-Project/model-hd/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
@@ -100,6 +103,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ### Top contributors:
 
