@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Tongue_Down
-  serializedVersion: 6
+  serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -61,22 +61,6 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009/Tongue_010
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: {x: 18.35, y: 0, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
-        tangentMode: 0
-        weightedMode: 0
-        inWeight: {x: 0, y: 0.33333334, z: 0.33333334}
-        outWeight: {x: 0, y: 0.33333334, z: 0.33333334}
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008
   - curve:
       serializedVersion: 2
@@ -115,7 +99,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 37.41, y: 180, z: 0}
+        value: {x: 37.41, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -131,7 +115,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -2.3, y: 180, z: 0}
+        value: {x: -2.3, y: 0, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -186,75 +170,86 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 639740632
+      path: 4121062689
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1059450840
+      path: 2517732588
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2943866283
+      path: 1563991941
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2377932788
+      path: 882375271
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 1207707247
+      path: 3219317950
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 3246581274
+      path: 3930176211
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 304577581
+      path: 3764927827
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 4281882622
+      path: 3854000850
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     - serializedVersion: 2
-      path: 2413006354
+      path: 1926100115
       attribute: 4
       script: {fileID: 0}
       typeID: 4
       customType: 4
       isPPtrCurve: 0
-    - serializedVersion: 2
-      path: 518599214
-      attribute: 4
-      script: {fileID: 0}
-      typeID: 4
-      customType: 4
-      isPPtrCurve: 0
+      isIntCurve: 0
+      isSerializeReferenceCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -277,7 +272,8 @@ AnimationClip:
     m_HeightFromFeet: 0
     m_Mirror: 0
   m_EditorCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -296,7 +292,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -315,7 +313,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -334,7 +334,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -353,7 +355,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -372,7 +376,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -391,64 +397,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009
     classID: 4
     script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 18.35
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009/Tongue_010
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009/Tongue_010
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve:
-      - serializedVersion: 3
-        time: 0
-        value: 0
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 136
-        weightedMode: 0
-        inWeight: 0
-        outWeight: 0
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: localEulerAnglesRaw.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009/Tongue_010
-    classID: 4
-    script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -467,7 +418,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -486,7 +439,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -505,7 +460,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -524,7 +481,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -543,7 +502,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -562,7 +523,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -581,7 +544,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -600,7 +565,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -619,7 +586,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -638,12 +607,14 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 180
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -657,7 +628,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -676,7 +649,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -695,12 +670,14 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 180
+        value: 0
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -714,7 +691,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -733,7 +712,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -752,7 +733,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -771,7 +754,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -790,7 +775,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -809,7 +796,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -828,7 +817,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -847,8 +838,10 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
     classID: 4
     script: {fileID: 0}
+    flags: 16
   m_EulerEditorCurves:
-  - curve:
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -858,7 +851,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -868,7 +863,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -878,7 +875,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -888,7 +887,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -898,7 +899,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -908,7 +911,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -918,7 +923,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -928,7 +935,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -938,7 +947,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -948,7 +959,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -958,7 +971,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -968,7 +983,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -978,7 +995,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -988,7 +1007,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -998,37 +1019,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008
     classID: 4
     script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009/Tongue_010
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009/Tongue_010
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006/Tongue_007/Tongue_008/Tongue_009/Tongue_010
-    classID: 4
-    script: {fileID: 0}
-  - curve:
+    flags: 16
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -1038,7 +1031,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 0
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -1048,7 +1043,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005
     classID: 4
     script: {fileID: 0}
-  - curve:
+    flags: 0
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -1058,87 +1055,9 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005
     classID: 4
     script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.z
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
-    classID: 4
-    script: {fileID: 0}
-  - curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.y
-    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
-    classID: 4
-    script: {fileID: 0}
-  - curve:
+    flags: 0
+  - serializedVersion: 2
+    curve:
       serializedVersion: 2
       m_Curve: []
       m_PreInfinity: 2
@@ -1148,6 +1067,103 @@ AnimationClip:
     path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
     classID: 4
     script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002/Tongue_003/Tongue_004/Tongue_005/Tongue_006
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: Armature/Hips/Spine/Chest/Neck/Head/Jaw/Tongue/Tongue_001/Tongue_002
+    classID: 4
+    script: {fileID: 0}
+    flags: 16
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events: []
