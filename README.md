@@ -81,7 +81,7 @@ git clone https://github.com/The-Best-Boi-Project/model-hd.git
 - [x] Remove big files (PSDs, etc)
 - [x] Simplify setup scene
 - [x] Fix and improve action layer
-- [ ] Make gestures more modular
+- [x] Make gestures more modular
 - [ ] Make face tracking components modular
 
 See the [open issues](https://github.com/The-Best-Boi-Project/model-hd/issues) for a full list of proposed features (and known issues).
