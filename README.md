@@ -78,8 +78,9 @@ git clone https://github.com/The-Best-Boi-Project/model-hd.git
 - [x] Fix tongue animations
 - [x] Remove GoGoLoco
 - [x] Remove broken scripts
+- [x] Remove big files (PSDs, etc)
 - [x] Simplify setup scene
-- [x] Fix  and improve action layer
+- [x] Fix and improve action layer
 - [ ] Make gestures more modular
 - [ ] Make face tracking components modular
 
