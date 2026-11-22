@@ -1058,6 +1058,7 @@ GameObject:
   - component: {fileID: 2059883398297893734}
   - component: {fileID: 2300587761449873971}
   - component: {fileID: 5544402336490113547}
+  - component: {fileID: 8817413020772993141}
   - component: {fileID: 1643872765173030246}
   m_Layer: 0
   m_Name: BestBoi HD Hair
@@ -2859,7 +2860,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1436.0
+  vrcfuryVersion: 1.1498.0
   somethingIsBroken: 0
   config:
     features: []
@@ -2878,6 +2879,7 @@ MonoBehaviour:
           - rid: 2853719273170010114
         saved: 0
         slider: 0
+        sliderBitWidthOverride: 0
         sliderInactiveAtZero: 0
         securityEnabled: 0
         defaultOn: 0
@@ -2943,7 +2945,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1436.0
+  vrcfuryVersion: 1.1498.0
   somethingIsBroken: 0
   config:
     features: []
@@ -2970,7 +2972,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1436.0
+  vrcfuryVersion: 1.1498.0
   somethingIsBroken: 0
   config:
     features: []
@@ -2985,6 +2987,68 @@ MonoBehaviour:
         version: 0
         disableLayers: []
         globalParam: 
+--- !u!114 &8817413020772993141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3921698197638920834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15e0f77126a8696498bf16d06aa7991b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  settings:
+    ApplyOnUpload: 1
+    WritePropertiesAsStaticValues: 0
+    MergeSkinnedMeshes: 1
+    MergeSkinnedMeshesWithShaderToggle: 0
+    MergeSkinnedMeshesWithNaNimation: 0
+    NaNimationAllow3BoneSkinning: 0
+    MergeSkinnedMeshesSeparatedByDefaultEnabledState: 1
+    MergeStaticMeshesAsSkinned: 0
+    AllowMeshDataDuplication: 0
+    MergeDifferentPropertyMaterials: 0
+    MergeSameDimensionTextures: 0
+    MergeMainTex: 0
+    OptimizeFXLayer: 1
+    CombineApproximateMotionTimeAnimations: 0
+    DeleteUnusedAnimatorParameters: 1
+    DisablePhysBonesWhenUnused: 1
+    MergeSameRatioBlendShapes: 1
+    MMDCompatibility: 1
+    DeleteUnusedComponents: 1
+    DeleteUnusedGameObjects: 0
+    UseRingFingerAsFootCollider: 1
+  DoAutoSettings: 0
+  ShowExcludedTransforms: 0
+  ExcludeTransforms: []
+  ExcludeTransformChildren: 
+  ShowMeshAndMaterialMergePreview: 1
+  ShowFXLayerMergeResults: 1
+  ShowDebugInfo: 0
+  DebugShowUnparsableMaterials: 1
+  DebugShowUnmergableMaterials: 1
+  DebugShowUnmergableTextureMaterials: 1
+  DebugShowCrunchedTextures: 1
+  DebugShowNonBC5NormalMaps: 1
+  DebugShowMeshesThatCantMergeNaNimationCausedByAnimations: 1
+  DebugShowLockedInMaterials: 1
+  DebugShowUnlockedMaterials: 1
+  DebugShowUnlockedMaterialsWithRenameAnimated: 1
+  DebugShowPenetrators: 1
+  DebugShowMergeableBlendShapes: 1
+  DebugShowFaceTracking: 1
+  DebugShowBoneWeightStats: 1
+  DebugShowPhysBoneDependencies: 1
+  DebugShowUnusedComponents: 1
+  DebugShowAlwaysDisabledGameObjects: 1
+  DebugShowMaterialSwaps: 1
+  DebugShowAnimatedMaterialPropertyPaths: 1
+  DebugShowGameObjectsWithToggle: 1
+  DebugShowUnmovingBones: 0
+  DebugShowMaterialContacts: 1
 --- !u!114 &1643872765173030246
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2999,7 +3063,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1436.0
+  vrcfuryVersion: 1.1498.0
   somethingIsBroken: 0
   config:
     features: []

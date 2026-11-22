@@ -5925,7 +5925,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 3921698197638920834, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
-      insertIndex: -1
+      insertIndex: 7
       addedObject: {fileID: 376378782}
   m_SourcePrefab: {fileID: 100100000, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
 --- !u!1 &376378781 stripped
@@ -5947,7 +5947,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1436.0
+  vrcfuryVersion: 1.1498.0
   somethingIsBroken: 0
   config:
     features: []
@@ -6397,6 +6397,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3578923318059205041, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
+      propertyPath: ShowExcludedTransforms
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7435676824116709191, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
     - {fileID: 3189824393430997029, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
@@ -6404,7 +6408,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 2915824084328832143, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
-      insertIndex: -1
+      insertIndex: 7
       addedObject: {fileID: 567714742}
   m_SourcePrefab: {fileID: 100100000, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
 --- !u!1 &567714741 stripped
@@ -6426,7 +6430,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1436.0
+  vrcfuryVersion: 1.1498.0
   somethingIsBroken: 0
   config:
     features: []
