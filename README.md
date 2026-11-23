@@ -50,7 +50,6 @@ To get a local copy up and running follow these simple example steps.
 To open this project locally, you will need to install the following first:
 - [Unity Hub](https://docs.unity.com/en-us/hub)
 - [VRChat Creator Companion](https://vcc.docs.vrchat.com/) or [ALCOM](https://vrc-get.anatawa12.com/en/alcom/)
-- [GIT-LFS](https://git-lfs.com/)
 
 Additionally, you will need to add the following repositories to VCC/ALCOM:
 - [VRCFury](https://vrcfury.com/)
