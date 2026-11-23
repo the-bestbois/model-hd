@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/The-Best-Boi-Project/model-hd)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/the-bestbois/model-hd)
 
 Unity project for our free, community-funded Bestboi HD model.
 
@@ -61,7 +61,7 @@ Additionally, you will need to add the following repositories to VCC/ALCOM:
 
 1. Clone the repo
 ```sh
-git clone https://github.com/The-Best-Boi-Project/model-hd.git
+git clone https://github.com/the-bestbois/model-hd.git
 ```
 3. Open VCC/ALCOM and add the cloned repo as an existing project
 4. Click on "manage"
@@ -83,7 +83,7 @@ git clone https://github.com/The-Best-Boi-Project/model-hd.git
 - [x] Make gestures more modular
 - [ ] Make face tracking components modular
 
-See the [open issues](https://github.com/The-Best-Boi-Project/model-hd/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/the-bestbois/model-hd/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -107,8 +107,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/The-Best-Boi-Project/model-hd/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-Best-Boi-Project/model-hd" alt="contrib.rocks image" />
+<a href="https://github.com/the-bestbois/model-hd/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=the-bestbois/model-hd" alt="contrib.rocks image" />
 </a>
 
 
@@ -127,7 +127,7 @@ Work in progress
 
 You can contact us through our [Discord Server](https://discord.com/invite/sRrXpyZ).
 
-Project Link: [https://github.com/The-Best-Boi-Project/model-hd](https://github.com/The-Best-Boi-Project/model-hd)
+Project Link: [https://github.com/the-bestbois/model-hd](https://github.com/the-bestbois/model-hd)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,16 +135,16 @@ Project Link: [https://github.com/The-Best-Boi-Project/model-hd](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/The-Best-Boi-Project/model-hd.svg?style=for-the-badge
-[contributors-url]: https://github.com/The-Best-Boi-Project/model-hd/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/The-Best-Boi-Project/model-hd.svg?style=for-the-badge
-[forks-url]: https://github.com/The-Best-Boi-Project/model-hd/network/members
-[stars-shield]: https://img.shields.io/github/stars/The-Best-Boi-Project/model-hd.svg?style=for-the-badge
-[stars-url]: https://github.com/The-Best-Boi-Project/model-hd/stargazers
-[issues-shield]: https://img.shields.io/github/issues/The-Best-Boi-Project/model-hd.svg?style=for-the-badge
-[issues-url]: https://github.com/The-Best-Boi-Project/model-hd/issues
-[license-shield]: https://img.shields.io/github/license/The-Best-Boi-Project/model-hd.svg?style=for-the-badge
-[license-url]: https://github.com/The-Best-Boi-Project/model-hd/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/the-bestbois/model-hd.svg?style=for-the-badge
+[contributors-url]: https://github.com/the-bestbois/model-hd/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/the-bestbois/model-hd.svg?style=for-the-badge
+[forks-url]: https://github.com/the-bestbois/model-hd/network/members
+[stars-shield]: https://img.shields.io/github/stars/the-bestbois/model-hd.svg?style=for-the-badge
+[stars-url]: https://github.com/the-bestbois/model-hd/stargazers
+[issues-shield]: https://img.shields.io/github/issues/the-bestbois/model-hd.svg?style=for-the-badge
+[issues-url]: https://github.com/the-bestbois/model-hd/issues
+[license-shield]: https://img.shields.io/github/license/the-bestbois/model-hd.svg?style=for-the-badge
+[license-url]: https://github.com/the-bestbois/model-hd/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: thumbnail.png
