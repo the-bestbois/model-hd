@@ -1305,7 +1305,7 @@ MonoBehaviour:
     eyeMovement:
       confidence: 0.5
       excitement: 0.5
-    eyeGazeMode: 0
+    eyeGazeMode: 2
     leftEye: {fileID: 4707754200101463310}
     rightEye: {fileID: 6671771537127467350}
     eyesLookingStraight:

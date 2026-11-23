@@ -5847,6 +5847,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: customEyeLookSettings.eyelidsBlendshapes.Array.data[0]
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698197638920832, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
       propertyPath: specialAnimationLayers.Array.data[0].animatorController
       value: 
       objectReference: {fileID: 0}
@@ -5905,6 +5909,10 @@ PrefabInstance:
     - target: {fileID: 3921698197638920894, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3921698198405845541, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[4]
+      value: 10.5
       objectReference: {fileID: 0}
     - target: {fileID: 9011663742540528829, guid: 9ad78c670100baf4d8a99dc54cac06c1, type: 3}
       propertyPath: ShowDebugInfo
@@ -6389,6 +6397,10 @@ PrefabInstance:
       propertyPath: baseAnimationLayers.Array.data[0].animatorController
       value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 2645441880111702500, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
+      propertyPath: customEyeLookSettings.eyelidsBlendshapes.Array.data[0]
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 2915824084328832143, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
       propertyPath: m_Name
       value: Bestboi HD Quest
@@ -6400,6 +6412,10 @@ PrefabInstance:
     - target: {fileID: 3578923318059205041, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
       propertyPath: ShowExcludedTransforms
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3609564992959495308, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[4]
+      value: 10.5
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 7435676824116709191, guid: e876602fadc0c6b448775e86f1f92137, type: 3}
