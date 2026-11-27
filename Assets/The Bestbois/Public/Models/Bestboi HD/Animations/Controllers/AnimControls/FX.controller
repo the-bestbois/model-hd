@@ -4470,7 +4470,7 @@ BlendTree:
   m_Name: ClawsBlend
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 0a5de18e3f0a3604d8fc51ab33686092, type: 2}
+    m_Motion: {fileID: 7400000, guid: 61652256dbc18ae46ab5abb1b45c550d, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
@@ -4478,7 +4478,7 @@ BlendTree:
     m_DirectBlendParameter: GestureLeftWeight
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 61652256dbc18ae46ab5abb1b45c550d, type: 2}
+    m_Motion: {fileID: 7400000, guid: 0a5de18e3f0a3604d8fc51ab33686092, type: 2}
     m_Threshold: 1
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1

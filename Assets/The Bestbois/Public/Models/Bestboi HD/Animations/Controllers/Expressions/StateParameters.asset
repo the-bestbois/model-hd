@@ -19,63 +19,115 @@ MonoBehaviour:
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: FaceV
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: EarMoveH
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: EarMoveV
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: TailMoveH
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: TailMoveV
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: MouthH
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: MouthV
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: ToesH
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: ToesV
     valueType: 1
     saved: 1
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: Claws
     valueType: 1
     saved: 1
-    defaultValue: 0
+    defaultValue: 1
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: VRCEmote
     valueType: 0
     saved: 0
     defaultValue: 0
     networkSynced: 1
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
   - name: VRCEmoteSpeed
     valueType: 1
     saved: 0
     defaultValue: 0
     networkSynced: 0
+    bitWidth: 8
+    useCustomLerpDuration: 0
+    customLerpDuration: 0
+    flippedRepresentation: 0
