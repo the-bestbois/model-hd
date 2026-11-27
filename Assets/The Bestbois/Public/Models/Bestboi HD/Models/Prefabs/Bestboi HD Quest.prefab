@@ -3066,13 +3066,13 @@ MonoBehaviour:
         remoteOnly: 0
         blendShape: No Hair
         blendShapeValue: 100
-        renderer: {fileID: 0}
-        allRenderers: 1
+        renderer: {fileID: 3609564992959495308}
+        allRenderers: 0
     - rid: 2853719273170010113
       type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
       data:
         version: 3
-        name: BodyCtrls/Hair Toggle
+        name: BodyCtrls/No hair
         state:
           actions:
           - rid: 1447702998415310914
@@ -3088,7 +3088,7 @@ MonoBehaviour:
         exclusiveTag: 
         resetPhysbones: []
         hasExitTime: 0
-        enableIcon: 0
+        enableIcon: 1
         icon:
           version: 1
           fileID: 0

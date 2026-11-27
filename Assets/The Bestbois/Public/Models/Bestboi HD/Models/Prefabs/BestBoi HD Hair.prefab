@@ -2873,7 +2873,7 @@ MonoBehaviour:
       type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
       data:
         version: 3
-        name: BodyCtrls/Hair Toggle
+        name: BodyCtrls/No hair
         state:
           actions:
           - rid: 2853719273170010114
