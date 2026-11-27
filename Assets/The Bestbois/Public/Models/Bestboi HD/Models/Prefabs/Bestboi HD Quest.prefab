@@ -1191,6 +1191,7 @@ GameObject:
   - component: {fileID: 4401150097323664120}
   - component: {fileID: 3578923318059205041}
   - component: {fileID: 3189824393430997029}
+  - component: {fileID: 505968628655885491}
   m_Layer: 0
   m_Name: Bestboi HD Quest
   m_TagString: Untagged
@@ -3065,14 +3066,14 @@ MonoBehaviour:
         localOnly: 0
         remoteOnly: 0
         blendShape: No Hair
-        blendShapeValue: 100
+        blendShapeValue: 0
         renderer: {fileID: 3609564992959495308}
         allRenderers: 0
     - rid: 2853719273170010113
       type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
       data:
         version: 3
-        name: BodyCtrls/No hair
+        name: BodyCtrls/Hair
         state:
           actions:
           - rid: 1447702998415310914
@@ -3093,8 +3094,9 @@ MonoBehaviour:
           version: 1
           fileID: 0
           guid: 
-          id: 
-          objRef: {fileID: 0}
+          id: a8b8ee27f2dd55d97bf24daf81ef382c|Assets/The Bestbois/Public/Models/Bestboi
+            HD/Animations/Icons/bestboi_hd_hair.png
+          objRef: {fileID: 2800000, guid: a8b8ee27f2dd55d97bf24daf81ef382c, type: 3}
         enableDriveGlobalParam: 0
         driveGlobalParam: 
         separateLocal: 0
@@ -3115,8 +3117,8 @@ MonoBehaviour:
         localTransitionTimeOut: 0
         simpleOutTransition: 1
         defaultSliderValue: 0
-        useGlobalParam: 0
-        globalParam: 
+        useGlobalParam: 1
+        globalParam: Hair
         holdButton: 0
         invertRestLogic: 0
         expandIntoTransition: 1
@@ -3480,6 +3482,48 @@ MonoBehaviour:
           id: c88edab7e520d774e8082bc203904dfc|Assets/The Bestbois/Public/Models/Bestboi
             HD/Animations/Controllers/Anims/FaceMood/Wink_R.anim
           objRef: {fileID: 7400000, guid: c88edab7e520d774e8082bc203904dfc, type: 2}
+--- !u!114 &505968628655885491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2915824084328832143}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 3
+  unityVersion: 2022.3.22f1
+  vrcfuryVersion: 1.1498.0
+  somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 4480189445603066017
+  references:
+    version: 2
+    RefIds:
+    - rid: 4480189445603066017
+      type: {class: ApplyDuringUpload, ns: VF.Model.Feature, asm: VRCFury}
+      data:
+        version: 0
+        action:
+          actions:
+          - rid: 4480189445603066018
+    - rid: 4480189445603066018
+      type: {class: BlendShapeAction, ns: VF.Model.StateAction, asm: VRCFury}
+      data:
+        version: 0
+        desktopActive: 0
+        androidActive: 0
+        localOnly: 0
+        remoteOnly: 0
+        blendShape: No Hair
+        blendShapeValue: 100
+        renderer: {fileID: 3609564992959495308}
+        allRenderers: 0
 --- !u!1 &3025089845391383261
 GameObject:
   m_ObjectHideFlags: 0

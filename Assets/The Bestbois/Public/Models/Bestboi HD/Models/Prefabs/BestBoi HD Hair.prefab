@@ -2873,7 +2873,7 @@ MonoBehaviour:
       type: {class: Toggle, ns: VF.Model.Feature, asm: VRCFury}
       data:
         version: 3
-        name: BodyCtrls/No hair
+        name: BodyCtrls/Hair
         state:
           actions:
           - rid: 2853719273170010114
@@ -2889,13 +2889,14 @@ MonoBehaviour:
         exclusiveTag: 
         resetPhysbones: []
         hasExitTime: 0
-        enableIcon: 0
+        enableIcon: 1
         icon:
           version: 1
           fileID: 0
           guid: 
-          id: 
-          objRef: {fileID: 0}
+          id: a8b8ee27f2dd55d97bf24daf81ef382c|Assets/The Bestbois/Public/Models/Bestboi
+            HD/Animations/Icons/bestboi_hd_hair.png
+          objRef: {fileID: 2800000, guid: a8b8ee27f2dd55d97bf24daf81ef382c, type: 3}
         enableDriveGlobalParam: 0
         driveGlobalParam: 
         separateLocal: 0
@@ -2916,8 +2917,8 @@ MonoBehaviour:
         localTransitionTimeOut: 0
         simpleOutTransition: 1
         defaultSliderValue: 0
-        useGlobalParam: 0
-        globalParam: 
+        useGlobalParam: 1
+        globalParam: Hair
         holdButton: 0
         invertRestLogic: 0
         expandIntoTransition: 1
@@ -2930,7 +2931,7 @@ MonoBehaviour:
         localOnly: 0
         remoteOnly: 0
         obj: {fileID: 3921698198773886354}
-        mode: 1
+        mode: 0
 --- !u!114 &2300587761449873971
 MonoBehaviour:
   m_ObjectHideFlags: 0
